@@ -1,2 +1,1 @@
-# CarParkingSystem
 # DjangoCarParking
